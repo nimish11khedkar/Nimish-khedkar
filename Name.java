@@ -1,12 +1,9 @@
 public class Name {
     public static void main(String a[])
     {
-            int a=10;
-            int b=19;
-            System.out.println("Sum is : "+(a+b));
             /* Hi
-                Name is Nimish
+                Name is kanchan bawane
             */
-            System.out.println("I m trying to update my git");
+            System.out.println("Hello Nimish I m trying to update my git");
     }
 }
